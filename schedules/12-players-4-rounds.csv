@@ -1,0 +1,13 @@
+round,table,east,south,west,north
+Round 1,Table 1,Player 4,Player 5,Player 6,Player 11
+Round 1,Table 2,Player 1,Player 3,Player 7,Player 9
+Round 1,Table 3,Player 2,Player 8,Player 10,Player 12
+Round 2,Table 1,Player 2,Player 6,Player 8,Player 9
+Round 2,Table 2,Player 3,Player 4,Player 7,Player 12
+Round 2,Table 3,Player 1,Player 5,Player 10,Player 11
+Round 3,Table 1,Player 6,Player 7,Player 8,Player 11
+Round 3,Table 2,Player 1,Player 2,Player 4,Player 12
+Round 3,Table 3,Player 3,Player 5,Player 9,Player 10
+Round 4,Table 1,Player 2,Player 4,Player 7,Player 11
+Round 4,Table 2,Player 6,Player 9,Player 10,Player 12
+Round 4,Table 3,Player 1,Player 3,Player 5,Player 8
